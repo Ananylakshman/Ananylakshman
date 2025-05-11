@@ -1,7 +1,7 @@
 ## Hi there 👋
  I'm Ananya
 
-## About Me
+## 👩‍💻 About Me
 I'm an engineering student passionate about front-end development, machine learning.
 
 - [LinkedIn](https://www.linkedin.com/in/ananyalakshman)
